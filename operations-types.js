@@ -1,6 +1,0 @@
-var number1 = ("09")
-var number2 = ("16")
-let number1 = ("BOOYAH!")
-let sum = ("number1 + number2")
-let product = ("number1*number2")
-print = (number1+number2)
